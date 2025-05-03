@@ -2,20 +2,21 @@
 
 ![Last Banner11](https://github.com/user-attachments/assets/a3af9e3c-a6db-4bcc-bbae-95d8bccf9dbe)
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=480&lines=Developer+|+CEO+|+Brand+Owner+|+Graphist" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=820&lines=Software+Developer+|+Brand+Creator+|+Graphic+Designer+|+Content+Manager" alt="Typing SVG" /></h1>
 
 My name is Mohammad Rasoul Sohrabi and I am from Iran and I am known by the stage name Rasoul Unlimited.
 
 I am interested in programming and I was active in many projects and one of my achievements is the establishment of an internet brand called Persian Team.
 
-### Languages & IDE
+#### Languages
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)](https://cplusplus.com/)
 [![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&&logoColor=white)](https://cplusplus.com/)
+#### Tools & Technologies
 [![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
 [![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)](https://html.com/)
 [![Json](https://img.shields.io/badge/Json-brown?logo=json&logoColor=white)](https://json.com/)
-
+#### IDEs
 [![PyCharm](https://img.shields.io/badge/PyCharm-black?logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 -
