@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=820&lines=Software+Developer+|+Brand+Creator+|+Graphic+Designer+|+Content+Manager" alt="Typing SVG" /></h1>
 
-My name is Mohammad Rasoul Sohrabi and I am from Iran and I am known by the stage name Rasoul Unlimited.
+I'm Mohammad Rasoul Sohrabi, also known as Rasoul Unlimited — a developer and digital creator from Iran. I specialize in software development, graphic design, and online branding.
 
 I am interested in programming and I was active in many projects and one of my achievements is the establishment of an internet brand called Persian Team.
 
@@ -19,8 +19,8 @@ I am interested in programming and I was active in many projects and one of my a
 #### IDEs
 [![PyCharm](https://img.shields.io/badge/PyCharm-black?logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
--
-### Contact to Me with
+
+## Contact to Me with
 [![Email](https://img.shields.io/badge/Email-Rasoul.Unlimited@gmail.com-blue?logo=Gmail&logoColor=EA4335)](mailto:Rasoul.unlimited@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-14510742-blue?logo=StackOverflow&logoColor=F58025)](https://stackoverflow.com/users/14510742/Rasoul-unlimited)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Rasoul__Unlimited-blue?logo=Codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/Rasoul_Unlimited)
