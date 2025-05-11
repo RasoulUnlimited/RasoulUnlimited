@@ -22,8 +22,7 @@ I am interested in programming and I was active in many projects and one of my a
 
 ## Contact to Me with
 [![Email](https://img.shields.io/badge/Email-Rasoul.Unlimited@gmail.com-blue?logo=Gmail&logoColor=EA4335)](mailto:Rasoul.unlimited@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-14510742-blue?logo=StackOverflow&logoColor=F58025)](https://stackoverflow.com/users/14510742/Rasoul-unlimited)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Rasoul__Unlimited-blue?logo=Codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/Rasoul_Unlimited)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-RasoulUnlimited-blue?logo=Linkedin)](https://www.linkedin.com/in/rasoulunlimited/)
 [![Discord](https://img.shields.io/badge/Discord-RasoulUnlimited-blue?logo=Discord&logoColor=5865F2)](https://www.discord.com/users/727228555959992463)
 [![Instagram](https://img.shields.io/badge/Instagram-Rasoul.Unlimited-blue?logo=instagram)](https://instagram.com/Rasoul.Unlimited/)
 [![Telegram](https://img.shields.io/badge/Telegram-RasoulUnlimited-blue?logo=Telegram)](https://t.me/RasoulUnlimited)
