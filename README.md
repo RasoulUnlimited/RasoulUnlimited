@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=820&lines=Software+Developer+|+Brand+Creator+|+Graphic+Designer+|+Content+Manager" alt="Typing SVG" /></h1>
 
-I'm Mohammad Rasoul Sohrabi (محمد رسول سهرابی), also known as Rasoul Unlimited (رسول  آنلیمیتد) — a developer and digital creator from Iran. I specialize in software development, graphic design, and online branding.
+I'm Mohammad Rasoul Sohrabi (محمد رسول سهرابی), also known as Rasoul Unlimited | رسول  آنلیمیتد — a developer and digital creator from Iran. I specialize in software development, graphic design, and online branding.
 
 I am interested in programming and I was active in many projects and one of my achievements is the establishment of an internet brand called Persian Team.
 
