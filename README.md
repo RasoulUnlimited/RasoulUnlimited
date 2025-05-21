@@ -32,7 +32,7 @@ I'm a Biomedical Engineering student at the University of Tehran, a multidiscipl
 ## 🛠️ Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,git,github,vscode,figma,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,mongodb,git,github,vscode,figma,bootstrap" />
 </p>
 
 ---
@@ -41,11 +41,13 @@ I'm a Biomedical Engineering student at the University of Tehran, a multidiscipl
 
 - 📘 Website: [rasoulunlimited.github.io](https://rasoulunlimited.github.io)
 - ✍️ Medium: [@rasoulunlimited](https://medium.com/@rasoulunlimited)
+- ✍️ Dev.to: [@rasoulunlimited](https://dev.to/rasoulunlimited)
 - 📚 ORCID: [0009-0004-7177-2080](https://orcid.org/0009-0004-7177-2080)
 - 📖 Wikidata: [Q134503479](https://www.wikidata.org/wiki/Q134503479)
 - 📸 Instagram: [@Rasoul.Unlimited](https://instagram.com/Rasoul.Unlimited)
 - 💬 Telegram: [@Rasoul_Unlimited](https://t.me/Rasoul_Unlimited)
 - 💼 LinkedIn: [rasoulunlimited](https://www.linkedin.com/in/rasoulunlimited/)
+- 🎥 Youtube: [rasoulunlimited](https://www.youtube.com/channel/UC7yn3tw-YtzROn4b0Vk6WLw?sub_confirmation=1)
 
 ---
 
