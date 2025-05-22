@@ -42,6 +42,7 @@ I'm a Biomedical Engineering student at the University of Tehran, a multidiscipl
 - 📘 Website: [rasoulunlimited.github.io](https://rasoulunlimited.github.io)
 - ✍️ Medium: [@rasoulunlimited](https://medium.com/@rasoulunlimited)
 - ✍️ Dev.to: [@rasoulunlimited](https://dev.to/rasoulunlimited)
+- ✍️ Virgool: [@rasoulunlimited](https://virgool.io/@RasoulUnlimited)
 - 📚 ORCID: [0009-0004-7177-2080](https://orcid.org/0009-0004-7177-2080)
 - 📖 Wikidata: [Q134503479](https://www.wikidata.org/wiki/Q134503479)
 - 📸 Instagram: [@Rasoul.Unlimited](https://instagram.com/Rasoul.Unlimited)
