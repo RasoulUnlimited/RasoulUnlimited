@@ -45,15 +45,35 @@ I'm a Biomedical Engineering student at the University of Tehran, a multidiscipl
 - ✍️ Virgool: [@rasoulunlimited](https://virgool.io/@RasoulUnlimited)
 - 📚 ORCID: [0009-0004-7177-2080](https://orcid.org/0009-0004-7177-2080)
 - 📚 Researchgate: [Mohammad-Rasoul-Sohrabi](https://www.researchgate.net/profile/Mohammad-Rasoul-Sohrabi)
-- 📖 Wikidata: [Q134503479](https://www.wikidata.org/wiki/Q134503479)
+- 📚 ResearcherID: [NJS-6637-2025](https://www.webofscience.com/wos/author/record/NJS-6637-2025)
+- 📖 ISNI: [0000000527866581](https://isni.org/isni/0000000527866581)
+- 📖 WikiPedia(Draft): [Mohammad Rasoul Sohrabi](https://en.wikipedia.org/wiki/Draft:Mohammad_Rasoul_Sohrabi)
+- 📖 Wikimedia Commons: [Mohammad Rasoul Sohrabi](https://commons.wikimedia.org/wiki/File:Mohammad_Rasoul_Sohrabi_(Rasoul_Unlimited),_2025.jpg)
+- 📖 Google Scholar: [Mohammad Rasoul Sohrabi](scholar.google.com/citations?user=kDl5eNUAAAAJ)
 - 📸 Instagram: [@Rasoul.Unlimited](https://instagram.com/Rasoul.Unlimited)
 - 💬 Telegram: [@Rasoul_Unlimited](https://t.me/Rasoul_Unlimited)
 - 💼 LinkedIn: [rasoulunlimited](https://www.linkedin.com/in/rasoulunlimited/)
 - 🎥 Youtube: [rasoulunlimited](https://www.youtube.com/channel/UC7yn3tw-YtzROn4b0Vk6WLw?sub_confirmation=1)
+- 📘 Facebook: [RasoulUnlimited](https://www.facebook.com/RasoulUnlimited)
+- 🐦 Twitter (X): [@RasoulUnlimited](https://x.com/RasoulUnlimited)
 - ⭐ About.me: [rasoulunlimited](https://about.me/rasoulunlimited)
 - ✨ Gravatar: [rasoulunlimited](https://gravatar.com/rasoulunlimited)
 - 🔒 Keybase: [rasoulunlimited](https://keybase.io/RasoulUnlimited)
 - 🐘 Mastodon: [RasoulUnlimited](https://mastodon.social/@RasoulUnlimited)
+- 🎓 Authenticus: [R-00M-286](https://www.authenticus.pt/R-00M-286)
+- 🎓 Academia.edu: [Mohammad Rasoul Sohrabi](https://independent.academia.edu/MohammadRasoulSohrabi)
+- 🔗 DataCite Commons: [ORCID 0009-0004-7177-2080](https://commons.datacite.org/orcid.org/0009-0004-7177-2080)
+- 🧠 Frontiers Loop: [Mohammad Rasoul Sohrabi](https://loop.frontiersin.org/people/3130177/overview)
+- 🧑‍💻 GitLab: [rasoul.unlimited](https://gitlab.com/rasoul.unlimited)
+- 🧑‍💻 SourceForge: [rasoulunlimited](https://sourceforge.net/u/rasoulunlimited)
+
+---
+
+## 🔬 Academic & Code Projects
+
+- 🎓 [Small Projects with Python](https://github.com/RasoulUnlimited/Small-Projects-with-Python)  
+  ⤷ [DOI: 10.5281/zenodo.16602795](https://doi.org/10.5281/zenodo.16602795)  
+  Collection of structured academic exercises from SUT with documentation and Zenodo citation support.
 
 ---
 
